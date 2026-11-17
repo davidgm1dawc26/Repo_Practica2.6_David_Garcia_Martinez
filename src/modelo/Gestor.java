@@ -24,7 +24,7 @@ public class Gestor {
     public void setUsuario(String usuario) {
         this.usuario = usuario;
     }
-
+// COMENTARIO TRAS HACER COMMIT Y CREAR RAMA_1
     public String getPass() {
         return pass;
     }
