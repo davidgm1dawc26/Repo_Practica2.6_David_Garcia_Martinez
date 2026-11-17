@@ -67,6 +67,7 @@ public class Controlador {
         return this.logeado.getUsuario();
     }
 
+    // COMENTARIO PARA HACER CAMBIO COMMIT
     public ArrayList<Tienda> getListaTiendas() {
         return listaTiendas;
     }
